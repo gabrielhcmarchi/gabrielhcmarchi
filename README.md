@@ -1,7 +1,7 @@
 
 ## Bem vindo ao meu Perfil ##
   
-Cursou C# Entra21 - Blusoft
+Cursou C# Entra21 - Blusoft<br>
 Atualmente Dev C# aprendiz - Fácil Espaider
  
   <div>
