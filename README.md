@@ -1,7 +1,8 @@
 
 ## Bem vindo ao meu Perfil ##
   
-Cursando C# Entra21 - Blusoft
+Cursou C# Entra21 - Blusoft
+Atualmente Dev C# aprendiz - Fácil Espaider
  
   <div>
   <a href="https://github.com/gabrielhcmarchi">
